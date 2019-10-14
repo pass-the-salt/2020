@@ -29,9 +29,10 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: $theme-primary;
-  &:hover, &:focus {
+  color: #fcbd20;
+    &:hover, &:focus {
     color: #fcbd20;
+
   }
 }
 
@@ -145,7 +146,8 @@ ul {
       .navbar-header .navbar-brand {
         color: #FFFFFF;
         &:hover, &:focus {
-          color: $theme-primary;
+          color: white;
+          font-weight: bold;
         }
       }
       .nav > li > a {

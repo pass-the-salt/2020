@@ -24,7 +24,7 @@ a {
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
   transition: all 0.35s;
-  color: #040467; }
+  color: #fcbd20; }
   a:hover, a:focus {
     color: #fcbd20; }
 
@@ -114,7 +114,8 @@ ul {
       .navbar-default.affix .navbar-header .navbar-brand {
         color: #FFFFFF; }
         .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
-          color: #040467; }
+          color: white;
+          font-weight: bold; }
       .navbar-default.affix .nav > li > a {
         color: #FFFFFF; }
         .navbar-default.affix .nav > li > a:focus {
