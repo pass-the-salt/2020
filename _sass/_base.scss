@@ -62,7 +62,7 @@ ul {
 }
 
 .navbar-default {
-  background-color: white;
+  background-color: $theme-primary;
   border-color: rgba(34, 34, 34, 0.05);
   -webkit-transition: all 0.35s;
   -moz-transition: all 0.35s;
@@ -75,14 +75,15 @@ ul {
       font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
       font-weight: 200;
       letter-spacing: 1px;
-      color: $theme-primary;
+      color: white;
       &:hover, &:focus {
-        color: #fcbd20;
+        color: white;
+        font-weight: bold;
       }
     }
     .navbar-toggle {
       font-size: 12px;
-      color: #FFFFFF;
+      color: white;
       padding: 8px 10px;
     }
   }
@@ -92,12 +93,14 @@ ul {
       text-transform: uppercase;
       letter-spacing: 2px;
       font-size: 11px;
-      color: #FFFFFF;
+      color: white;
       &:focus {
-        color: #FFFFFF;
+        color: white;
+        font-weight: bold;
       }
       &:hover, &:focus:hover {
-        color: $theme-primary;
+        color: white;
+        font-weight: bold;
       }
     }
     &.active > a {
@@ -119,18 +122,21 @@ ul {
     background-color: transparent;
     border-color: transparent;
     .navbar-header .navbar-brand {
-      color: orange;
+        color: white;
       &:hover, &:focus {
         color: white;
+        font-weight: bold;
       }
     }
     .nav > li > a {
-      color: orange;
+      color: white;
       &:focus {
-        color: orange;
+        color: white;
+        font-weight: bold;
       }
       &:hover, &:focus:hover {
         color: white;
+        font-weight: bold;
       }
     }
     &.affix {

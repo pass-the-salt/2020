@@ -10,14 +10,14 @@ ref: Practical
 
 ---
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3> The dates</h3></div>
+<div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3> The dates</h3></div>
 <ul>
 	<li><span style="color:orange; ">conference start:</span> Monday June, 29th 2020 2:00PM</li>
 	<li><span style="color:orange; ">conference end:</span> Wednesday July, 3th 2020 5:00PM</li>
 </ul>
 <br>
                 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3> The venue</h3></div>
+<div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3> The venue</h3></div>
 <p>
 <ul>
 	<li>venue: <a href="http://www.polytech-lille.fr/english-p4664.html" style="color:orange;text-decoration: underline;">Polytech Lille engineer school</a></li>
@@ -41,7 +41,7 @@ ref: Practical
 </script>
 <br>
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Lunch</h3></div>
+<div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3>Lunch</h3></div>
 <p>For lunch, we propose 2 options:</p>
 <ul>
 	<li><b>2 food trucks</b> will be available at the conference site (parking in front of the main entrance).</li> 
@@ -50,14 +50,14 @@ near the Pierre Mauroy stadium (look at the map above).</li>
 </ul>
 <br>
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Coming from Lille to the conference venue</h3></div>
+<div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3>Coming from Lille to the conference venue</h3></div>
 <ul>
 	<li>Polytech is <b>~20 min away from the center of Lille</b> using the <b>metro line 1 ("4 Cantons Stade Pierre Mauroy" stop)</b>. Just give a look at the map above.</li>
     <li>The last meters are the easy part. On the roundabout near the metro stop, the direction to Polytech school (conference location) is indicated, just follow the "Polytech Lille" on the traffic signs.</li>
 </ul>
 <br>
 
-<div style="border-left: 5px solid #7b4397; color: white; background-color: #dc2430; padding-left: 10px"> <h3>Coming to Lille from Paris or Brussels</h3></div>
+<div style="border-left: 5px solid #30cfd0; color: white; background-color: #040467; padding-left: 10px"> <h3>Coming to Lille from Paris or Brussels</h3></div>
 
 <h3><b>from Paris, Gare du Nord train Station</b></h3>
 <p>take TGV train to Lille Europe or Lille Flandres stations : 1 hour</p>
