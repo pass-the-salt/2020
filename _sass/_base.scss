@@ -152,9 +152,11 @@ ul {
         color: #FFFFFF;
         &:focus {
           color: #FFFFFF;
+          font-weight: bold;
         }
         &:hover, &:focus:hover {
-          color: orange;
+          color: white;
+          font-weight: bold;
         }
       }
     }

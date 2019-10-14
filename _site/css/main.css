@@ -118,9 +118,11 @@ ul {
       .navbar-default.affix .nav > li > a {
         color: #FFFFFF; }
         .navbar-default.affix .nav > li > a:focus {
-          color: #FFFFFF; }
+          color: #FFFFFF;
+          font-weight: bold; }
         .navbar-default.affix .nav > li > a:hover, .navbar-default.affix .nav > li > a:focus:hover {
-          color: orange; } }
+          color: white;
+          font-weight: bold; } }
 header {
   position: relative;
   width: 100%;
