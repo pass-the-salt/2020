@@ -6,10 +6,10 @@ index:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://2020.pass-the-salt.org # the base hostname & protocol for your site
 title: "2020 Pass the SALT"
-description: "Welcome to the 2020 Pass the SALT edition! You will find there all informations available about the 2019 edition."
+description: "Welcome to the 2020 Pass the SALT edition! You will find there all informations available about the 2020 edition."
 card_title: "PTS20"
-card_default_image: /img/2019card.png
-card_default_image_og: /img/2019card-og.png
+card_default_image: /img/card.png
+card_default_image_og: /img/card-og.png
 twitter_username: passthesaltcon
 permalink: /:slug/
 
