@@ -22,7 +22,7 @@ In order:
 
 we have decided to organize Pass the SALT 2020 virtually. 
 
-**This edition will be done remotely under a webinar format** at the same date period (late June, early July).
+**This edition will be done remotely under a webinar format** roughly at the same dates, June 29 - July 1.
 
 Obviously, there will be only talks and no workshop. Sorry for that.
 
