@@ -12,8 +12,6 @@ ref: CoC
 
 Dear attendees, speakers and sponsors,
 
-<b><u>Final statement</u></b>
-
 Due to the evolution of the COVID19 outbreak, we can not be sure to be able to organize safely an onsite event in July.
 
 In order:
