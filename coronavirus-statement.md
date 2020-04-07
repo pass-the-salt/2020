@@ -19,6 +19,7 @@ Due to the evolution of the COVID19 outbreak, we can not be sure to be able to o
 In order:
 * to protect our attendees and speakers,
 * and to give an outcome to the research done by Security and Free Software speakers
+
 we have decided to organize Pass the SALT 2020 virtually. 
 
 **This edition will be done remotely under a webinar format** at the same date period (late June, early July).
