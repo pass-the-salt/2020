@@ -1,0 +1,35 @@
+index:
+  en : index.html
+#  fr : index-fr.html
+
+# Site settings
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://2020.pass-the-salt.org # the base hostname & protocol for your site
+title: "2020 Pass the SALT"
+description: "Welcome to the 2020 Pass the SALT edition! You will find there all informations available about the 2019 edition."
+card_title: "PTS20"
+card_default_image: /img/2019card.png
+card_default_image_og: /img/2019card-og.png
+twitter_username: passthesaltcon
+permalink: /:slug/
+
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
+social:
+  - title: twitter
+    url: https://twitter.com/passthesaltcon
+#  - title: github
+#    url: http://github.com/pass-the-salt
+  - title: envelope
+    url: mailto:contact@pass-the-salt.org
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+#paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+plugins:
+  - jekyll-paginate
+
+# Build settings
