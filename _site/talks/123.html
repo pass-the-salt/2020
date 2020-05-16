@@ -9,22 +9,22 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>2020 Pass the SALT | Coronavirus Statement</title>
+    <title>2020 Pass the SALT | Creating a dedicated log management layer</title>
 
     <!-- Twitter cards -->
     <meta name="twitter:site"    content="@passthesaltcon">
     <meta name="twitter:creator" content="@passthesaltcon">
     <meta name="twitter:card"    content="summary">
-    <meta name="twitter:title"   content="PTS20 | Coronavirus Statement">
-    <meta name="twitter:description" content="Welcome to the 2020 Pass the SALT edition! You will find there all informations available about the 2020 edition.">
-    <meta name="twitter:image" content="http://localhost:4000/img/card.png">
+    <meta name="twitter:title"   content="PTS20 | Creating a dedicated log management layer">
+    <meta name="twitter:description" content="Event logging is a central source of information both for IT security and operations, but differe…">
+    <meta name="twitter:image" content="http://localhost:4000/img/speakers/hotcrp-paper123-picture-upload-crop.jpg">
     <!-- end of Twitter cards -->
 
     <!-- Open graph -->
-    <meta property="og:title"   content="2020 Pass the SALT | Coronavirus Statement">
+    <meta property="og:title"   content="2020 Pass the SALT | Creating a dedicated log management layer">
     <meta property="og:author" content="@passthesaltcon">
-    <meta property="og:description" content="Welcome to the 2020 Pass the SALT edition! You will find there all informations available about the 2020 edition.">
-    <meta property="og:image" content="http://localhost:4000">
+    <meta property="og:description" content="Event logging is a central source of information both for IT security and operations, but differe…">
+    <meta property="og:image" content="http://localhost:4000/img/speakers/hotcrp-paper123-picture-upload-crop.jpg">
     <!-- end of Open graph -->
 
     <!-- Bootstrap Core CSS -->
@@ -109,18 +109,6 @@
                 </li>
 
                 
-                
-                  <li>
-                  
-                  <a href="/code-of-conduct/" style="color:#F05F40;" >en</a>
-                  
-                  </li>
-                
-                  <li>
-                  
-                  <a href="/coronavirus-statement/" style="color:#F05F40;" >en</a>
-                  
-                  </li>
                  -->
 
             </ul>
@@ -140,37 +128,37 @@
                 <hr class="light">
                 <p class="text-faded">
                 <b>What and when ?</b><br><br>-->
-                <h1 id="final-statement">Final Statement</h1>
+                <p>« <a href="/schedule/">back to schedule</a></p>
 
+<h2 id="creating-a-dedicated-log-management-layer">Creating a dedicated log management layer</h2>
 <hr />
 
-<p>Dear attendees, speakers and sponsors,</p>
+<p>Event logging is a central source of information both for IT security and operations, but different teams use different tools to collect and analyze log messages. The same log message is often collected by multiple applications. Having each team using different tools is complex, inefficient and makes a system less secure. Using a single application to create a dedicated log management layer independent of analytics has multiple benefits.</p>
 
-<p>Due to the evolution of the COVID19 outbreak, we can not be sure to be able to organize safely an onsite event in July.</p>
+<p>Collecting system logs with one application locally, forwarding the logs with another one, collecting audit logs with a different app, buffering logs with a dedicated server, and processing logs with yet another app centrally means installing several different applications on your infrastructure. And you might need a different set of applications for different log analysis software.  Using multiple software solutions makes a system more complex, difficult to update and needs more computing, network and storage resources as well.</p>
 
-<p>In order:</p>
-<ul>
-  <li>to protect our attendees and speakers,</li>
-  <li>and to give an outcome to the research done by Security and Free Software speakers</li>
-</ul>
+<p>All of these features can be implemented using a single application which in the end can feed multiple log analysis software. A single app to learn and to follow in bug &amp; CVE trackers. A single app to push through the security and operations teams, instead of many. Less resources needed both on the human and technical side.</p>
 
-<p>we have decided to organize Pass the SALT 2020 virtually.</p>
+<p>In my talk I show you how to implement a log management layer using syslog-ng, as this is what I know best, but other applications have similar functionality. The syslog-ng application collects logs from many different sources, performs real-time log analysis by processing and filtering them, and finally it stores the logs or routes them for further analysis.</p>
 
-<p><strong>This edition will be done remotely under a webinar format</strong> roughly at the same dates, June 29 - July 1.</p>
+<p>In an ideal world, all log messages come in a structured format, ready to be used for log analysis, alerting or dashboards. But in a real world only part of the logs belong to this category. Traditionally, most of the log messages come as free format text messages. These are easy to be read by humans, which was the original use of log messages. However, today logs are rarely processed by the human eye. Fortunately syslog-ng has several tools to turn unstructured and many of the structured message formats into name-value pairs, and thus delivers the benefits of structured log messages.</p>
 
-<p>Obviously, there will be only talks and no workshop. Sorry for that.</p>
+<p>Once you have name-value pairs, log messages can be further enriched with additional information in real-time, which helps responding to security events faster. One way is adding geo-location based on IP addresses. Another way is adding contextual data from external files, like the role of a server based on the IP address or the role of the user based on the name. Data from external files can also be used to filter messages, for example to check firewall logs to determine whether certain IP addresses are contained in various black lists for malware command centers, spammers, and so on.</p>
 
-<p>We are now waiting for your submission dear speakers: <a href="https://cfp.pass-the-salt.org/">https://cfp.pass-the-salt.org/</a> :-)</p>
+<p>Logging is subject to an increasing number of compliance regulations. PCI-DSS or many European privacy laws require removing sensitive data from log messages. I will demonstrate how logs can be anonymized in a way that they are still useful for security analitics.</p>
 
-<p><b>Thank you for your commitment to make Pass the SALT a great event for all of us!</b></p>
+<p>With log messages parsed and enriched you can now make informed decisions where to store or forward log messages. You can do basic alerting already in syslog-ng and receive critical log messages on a Slack channel. There are many ready to use destinations within syslog-ng, like Kafka, MongoDB or Elasticsearch. And you can easily create your own based on the generic network or HTTP destinations and using templates to log in a format as required by a SIEM or a Logging as a Service solution.</p>
 
-<p><em>Changelog:</em></p>
-<ul>
-  <li><em>April 7, 2020: Pass the SALT 2020 goes virtual.</em></li>
-  <li><em>March 12, 2020: Polytech school cancels all events inside the school, French governement suspends all events with more than 100 attendees.</em></li>
-  <li><em>March 9, 2020: update from French government recommandations (5000-&gt;1000 attendees, all events, May 31 –&gt; April 15).</em></li>
-  <li><em>March 7, 2020: initial release.</em></li>
-</ul>
+<hr />
+<h3 id="speakers">Speaker(s)</h3>
+<p><img src="/img/speakers/hotcrp-paper123-picture-upload.jpg" alt="speaker" /></p>
+
+<p><strong>Peter Czanik (One Identity)</strong></p>
+
+<h3 id="bio">Bio</h3>
+<p>Peter is an engineer working as evangelist at Balabit (a One Identity business), the company that developed syslog-ng. He assists distributions to maintain the syslog-ng package, follows bug trackers, helps users and talks regularly at conferences (SCALE, All Things Open, FOSDEM, LOADays, and others). In his limited free time he is interested in non-x86 architectures, and works on one of his PPC or ARM machines.</p>
+
+<p>« <a href="/schedule/">back to schedule</a></p>
 
 <!--                </p>
                 <a href="#" class="btn btn-default btn-xl">Get Started!</a> -->

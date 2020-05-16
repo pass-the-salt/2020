@@ -4,24 +4,9 @@
   
     
     <url>
-      <loc>https://2020.pass-the-salt.org/code-of-conduct/</loc>
+      <loc>http://localhost:4000/talks/105</loc>
       
-        <lastmod>2019-12-08T15:39:00+01:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>https://2020.pass-the-salt.org/</loc>
-      
-        <lastmod>2019-12-08T15:39:00+01:00</lastmod>
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -34,9 +19,9 @@
   
     
     <url>
-      <loc>https://2020.pass-the-salt.org/practical/</loc>
+      <loc>http://localhost:4000/talks/112</loc>
       
-        <lastmod>2019-12-08T15:39:00+01:00</lastmod>
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -49,9 +34,264 @@
   
     
     <url>
-      <loc>https://2020.pass-the-salt.org/schedule/</loc>
+      <loc>http://localhost:4000/talks/113</loc>
       
-        <lastmod>2019-12-08T15:39:00+01:00</lastmod>
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/115</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/116</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/118</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/119</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/121</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/122</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/123</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/125</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/126</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/127</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/128</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/talks/129</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/code-of-conduct/</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/coronavirus-statement/</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/practical/</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/schedule/</loc>
+      
+        <lastmod>2020-05-17T01:42:27+02:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
