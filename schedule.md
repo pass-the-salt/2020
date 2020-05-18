@@ -16,7 +16,7 @@ For this third edition, despite the circumstances, we are happy to propose to yo
 
 Enjoy!
 
-<div style="border-left: 5px solid #7b4397; padding-left: 10px"> <h2>Talks Schedule</h2></div>
+<div style="border-left: 5px solid #07116e; padding-left: 10px"> <h2>Talks Schedule</h2></div>
 
 Time Zone: Central European Summer Time
 
@@ -25,11 +25,23 @@ Time Zone: Central European Summer Time
 {:.schedule}
 | :-------  | :------------------------------------------------------------------------   | :----------------------------------         |
 | 13:45-13:55 | **Introduction talk** | Pass the SALT org team |
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Keynote </h3></div>
+
+{:.schedule}
+| :-------  | :------------------------------------------------------------------------   | :----------------------------------         |
 | 14:00-14:20 | **[How free and open source software can help human to keep their sanity during a pandemic crisis?](/talks/116.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Pauline Bourmeau (MISP Project), Alexandre Dulaunoy (MISP Project) |
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> A More Secure Identity </h3></div>
+
+{:.schedule}
+| :-------  | :------------------------------------------------------------------------   | :----------------------------------         |
 | 14:25-15:00 | **[Replacing passwords with FIDO2](/talks/127.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Nils Amiet (Kudelski Security)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | 15:05-15:25 | **[Understand password policy in OpenLDAP and discover tools to manage it](/talks/118.html)** | Clément OUDOT (Worteks)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:30-15:40 ~~~</div></div>
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Deeper Understanding, Better Security </h3></div>
 
 {:.schedule}
 | :---  | :---   | :---         |
@@ -38,10 +50,17 @@ Time Zone: Central European Summer Time
 
 ### **Tuesday 30th of June, 2020**
 
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Redteaming on the Internets </h3></div>
+
 {:.schedule}
 | :---  | :---   | :---         |
 | 14:00-14:20 | **[Looting the Symfony profiler with EOS](/talks/125.html)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Matthieu Barjole (Synacktiv)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;|
 | 14:25-14:45 | **[IoTMap: a modelling system for heterogeneous IoT networks](/talks/129.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Jonathan Tournier (AlgoSecure - CITI-Lab, INSA-Lyon) et al.|
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Detect and Defend </h3></div>
+
+{:.schedule}
+| :---  | :---   | :---         |
 | 14:50-15:25 | **[Will TLS be the next one to kill IDS ?](/talks/122.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Eric Leblond (OISF),  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Peter Manev (OISF) |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:30-15:40 ~~~</div></div>
@@ -56,10 +75,17 @@ Time Zone: Central European Summer Time
 {:.schedule}
 | :---  | :---   | :---         |
 | 14:00-14:35 | **[Remote Forensic Investigations For The Win](/talks/112.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Xavier Mertens  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Secure Boxes </h3></div>
+
+{:.schedule}
+| :---  | :---   | :---         |
 | 14:40-15:15 | **[Enarx - secured, attested execution on any cloud](/talks/128.html)** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Axel Simon (Red Hat)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 | 15:20-15:40 | **[Tackling security issues in virtualization](/talks/113.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;| Olivier Lambert (Vates),  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Charles Schulz (Vates) |
 
 <div style="padding-left:40px"><div style="text-align: center; font-weight: bold">~~~ AFTERNOON PAUSE: 15:45-15:55 ~~~</div></div>
+
+<div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3> Cyborgs </h3></div>
 
 {:.schedule}
 | :---  | :---   | :---         |
