@@ -1,0 +1,38 @@
+<p>« <a href="/schedule/">back to schedule</a></p>
+
+<h2 id="crowdsec---a-crowd-approach-to-infrastructure-defense">CrowdSec ,  A crowd approach to infrastructure defense</h2>
+<hr />
+
+<p>The CrowdSec project aims at providing a crowdsourced approach to common infrastructure defense problems, by distributing free &amp; open-source softwares allowing to protect yourself and share information about malevolent actors.</p>
+
+<p>These software components, of which CrowdWatch is the main piece (release date : 15th of may) work by processing logs (or more generally information stream such as cloudtrail or kafka) and enriching them, in order to apply behavior based scenarios (heuristics) that will identify attacks patterns and even sort targeted attacks from opportunistic ones.</p>
+
+<p>One of the core concepts of crowdwatch is to decorelate the detection of an attack and its reaction, to be suitable for modern architectures.</p>
+
+<p>While CrowdWatch is in charge of the detection, the reaction is performed by “blockers” that aim to be deployable at any level of the applicative / infrastructure stack :</p>
+<ul>
+  <li>as a nftables/iptables daemon “a la fail2ban”</li>
+  <li>as a nginx plugin</li>
+  <li>as a wordpress plugin</li>
+  <li>etc.</li>
+</ul>
+
+<p>We hope that this approach, combined with a declarative configuration and a stateless behaviour, will make it an ideal candidate to enhance security of modern stacks (containers, k8s, serverless and more generally automatically deployed infrastructures).</p>
+
+<p>Furthermore, we intend to create and share the most accurate database of malevolent actors as possible, under the form of a real time IP reputation system, accessible through API. Whenever an attack is locally blocked/detected by crowdwatch, the “meta” information of the attack is shared amongst participants (source ip, date and triggered scenario) for redistribution to network members.</p>
+
+<p>We are committed to building a strong community, with all that it implies :</p>
+<ul>
+  <li>a public hub to find, share and amend parsers, scenarios and blockers</li>
+  <li>permissive open-source licence to stay business friendly</li>
+  <li>and overall a strong commitment to transparency and community-first mentality, by tooling and behaviour</li>
+</ul>
+
+<hr />
+<h3 id="speakers">Speaker(s)</h3>
+
+<p><strong>Thibault Koechlin (crowdsec), Philippe Humeau (crowdsec)</strong></p>
+
+<h3 id="bio">Bio</h3>
+
+<p>« <a href="/schedule/">back to schedule</a></p>
