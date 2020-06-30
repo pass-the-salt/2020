@@ -71,7 +71,7 @@ Time Zone: Central European Summer Time
 {:.schedule}
 | :---  | :---   | :---         |
 | 15:40-16:15 | **[Creating a dedicated log management layer](/talks/123.html)**  - [slides](/files/slides/PTS2020-Talk-09-CzP_sng_loglayer_v2.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; | Peter Czanik (One Identity)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
-| 16:20-16:55 | **[CrowdSec : A crowd approach to infrastructure defense](/talks/126.html)**  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Thibault Koechlin (CrowdSec), Philippe Humeau (CrowdSec) |
+| 16:20-16:55 | **[CrowdSec : A crowd approach to infrastructure defense](/talks/126.html)** - [slides](/files/slides/PTS2020-Talk-10-CrowdSec.pdf) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Thibault Koechlin (CrowdSec), Philippe Humeau (CrowdSec) |
 
 <div style="border-left: 5px solid #07116e; color: white; background-color: #2bb9c5; padding-left: 10px"> <h3><center> Concert Time!</center> </h3></div>
 
